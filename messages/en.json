@@ -1,0 +1,27 @@
+{
+  "Hero": {
+    "title": "Real-time Arbitrage & Funding Scanner",
+    "subtitle": "We scan top CEXs, calculate net edge after fees, and deliver alerts directly to Telegram.",
+    "cta_bot": "Launch Bot",
+    "cta_demo": "View Demo",
+    "badge_coverage": "Top CEX Coverage",
+    "badge_latency": "Latency Aware"
+  },
+  "Stats": {
+    "candles": "Candles Scanned",
+    "signals": "Signals Found",
+    "trades": "Paper Trades"
+  },
+  "Nav": {
+    "pricing": "Pricing",
+    "docs": "Docs",
+    "login": "Login",
+    "home": "Home"
+  },
+  "Pricing": {
+    "title": "Choose your edge",
+    "free": "Free",
+    "pro": "Pro Trader",
+    "team": "Team"
+  }
+}
